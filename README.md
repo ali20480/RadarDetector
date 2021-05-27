@@ -1,4 +1,4 @@
-# Evaluation code to be published soon
+# Evaluation code to be released soon
 
 # A Low-Complexity Radar Detector Outperforming OS-CFAR for Indoor Drone Obstacle Avoidance
 https://user-images.githubusercontent.com/10224818/119790963-ad040c80-bed4-11eb-9ab0-b4f77b945d84.mp4
