@@ -14,6 +14,9 @@ Compared to standard 2D CA-CFAR detection, our proposed detector significantly r
 https://user-images.githubusercontent.com/10224818/119790963-ad040c80-bed4-11eb-9ab0-b4f77b945d84.mp4
 
 ## Our proposed detector in action
+
+We implemented our detector in the ARM Cortex R4 MCU of the AWR1443 radar used throughout this work. The video below shows our detector working in real-time on-line at 30 FPS. The structure of the room (shelves, wall,...) can be easily seen in the radar detections which qualitatively shows the effectiveness of our proposed method.
+
 https://user-images.githubusercontent.com/10224818/119706514-5eb22780-be5a-11eb-98c4-1f7c4e97c7e1.mp4
 
 
