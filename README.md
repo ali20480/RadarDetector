@@ -19,6 +19,18 @@ We implemented our detector in the ARM Cortex R4 MCU of the AWR1443 radar used t
 
 https://user-images.githubusercontent.com/10224818/119706514-5eb22780-be5a-11eb-98c4-1f7c4e97c7e1.mp4
 
+# How to cite
+
+If you use this work, please cite:
+
+**Ali Safa et al. (2020) "A Low-Complexity Radar Detector Outperforming OS-CFAR for Indoor Drone Obstacle Avoidance"**
+
+```
+@misc{name__,
+
+}
+```
+
 
 
 
