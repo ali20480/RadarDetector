@@ -25,11 +25,6 @@ If you use this work, please cite:
 
 **Ali Safa et al. (2021) "A Low-Complexity Radar Detector Outperforming OS-CFAR for Indoor Drone Obstacle Avoidance"**
 
-```
-@misc{name__,
-
-}
-```
 
 
 
