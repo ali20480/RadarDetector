@@ -13,13 +13,13 @@ Choose detector type, parameters, alpha(Pfa),...
 """
 NTT = 10 #number of training cells
 NGG = 5 #number of guard cells
-alphaOS = np.linspace(2.5, 4, 20) #Threshold multiplicator for OS-CFAR 
+alphaOS = np.linspace(2.25, 3, 20) #Threshold multiplicator for OS-CFAR 
 order = 0.7 #0.8*2*Ntrain is the ordered statistics that is selected
 alphaAD = np.linspace(0.7, 0.95555556, 20) #np.linspace(6, 120, 81) #Threshold multiplicator for our proposed method 
 Nbr_range_bin = 254 
 r_max = 5 #maximal difference in number of bins before being marked as false alarm
 #Feature space dimension D
-D = 7
+D = 9
 detector_l = ['OS','AD'] #coose between 'OS' and 'AD' (our method)
 """
 Load labelled data set
